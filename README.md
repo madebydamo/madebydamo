@@ -1,5 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Damian
-==============================================================================================================================Development Engineer--------------------Hey there, thats my personal github. Here are some fun projects i am working / worked on in my spare time.* 🌍  I'm based in Switzerland
+==============================================================================================================================
+Development Engineer
+--------------------
+Hey there, thats my personal github. Here are some fun projects i am working / worked on in my spare time.* 🌍  I'm based in Switzerland
 
 ### Skills
 
